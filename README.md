@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=wsXd95K-hLc
 
 ## Application Setup:
 - git clone https://github.com/oktay379/Wamo-Invoice-App
-- cd Wamo-Invoice-Appp
+- cd Wamo-Invoice-App
 - npm install
 - npm run dev
 
